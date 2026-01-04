@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RamThokane/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RamThokane/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -16,5 +17,6 @@ A collection of LeetCode questions to ace the coding
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RamThokane/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RamThokane/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/RamThokane/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
