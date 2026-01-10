@@ -34,9 +34,14 @@ a collection of lc qs to ace
 ## Dynamic Programming
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RamThokane/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/RamThokane/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Hash Table
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RamThokane/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## String
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RamThokane/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
