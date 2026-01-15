@@ -33,6 +33,7 @@ a collection of lc qs to ace
 | [0085-maximal-rectangle](https://github.com/RamThokane/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RamThokane/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/RamThokane/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/RamThokane/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,4 +68,8 @@ a collection of lc qs to ace
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/RamThokane/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Sorting
+|  |
+| ------- |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/RamThokane/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 <!---LeetCode Topics End-->
