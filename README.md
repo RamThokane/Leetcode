@@ -34,6 +34,7 @@ a collection of lc qs to ace
 | [0054-spiral-matrix](https://github.com/RamThokane/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RamThokane/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/RamThokane/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0560-subarray-sum-equals-k](https://github.com/RamThokane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RamThokane/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/RamThokane/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1895-largest-magic-square](https://github.com/RamThokane/Leetcode/tree/master/1895-largest-magic-square) |
@@ -52,6 +53,7 @@ a collection of lc qs to ace
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RamThokane/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/RamThokane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RamThokane/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RamThokane/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RamThokane/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -96,6 +98,7 @@ a collection of lc qs to ace
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/RamThokane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1895-largest-magic-square](https://github.com/RamThokane/Leetcode/tree/master/1895-largest-magic-square) |
 ## Bit Manipulation
 |  |
