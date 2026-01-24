@@ -30,6 +30,7 @@ a collection of lc qs to ace
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RamThokane/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RamThokane/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/RamThokane/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RamThokane/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -65,6 +66,7 @@ a collection of lc qs to ace
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RamThokane/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RamThokane/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/RamThokane/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1895-largest-magic-square](https://github.com/RamThokane/Leetcode/tree/master/1895-largest-magic-square) |
@@ -75,6 +77,7 @@ a collection of lc qs to ace
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RamThokane/Leetcode/tree/master/0048-rotate-image) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RamThokane/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Geometry
 |  |
