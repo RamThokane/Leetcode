@@ -38,6 +38,7 @@ a collection of lc qs to ace
 | [1266-minimum-time-visiting-all-points](https://github.com/RamThokane/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/RamThokane/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1895-largest-magic-square](https://github.com/RamThokane/Leetcode/tree/master/1895-largest-magic-square) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RamThokane/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/RamThokane/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RamThokane/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RamThokane/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -90,6 +91,7 @@ a collection of lc qs to ace
 ## Sorting
 |  |
 | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RamThokane/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/RamThokane/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Enumeration
 |  |
@@ -130,4 +132,8 @@ a collection of lc qs to ace
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RamThokane/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RamThokane/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RamThokane/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
