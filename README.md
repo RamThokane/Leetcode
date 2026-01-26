@@ -34,6 +34,7 @@ a collection of lc qs to ace
 | [0054-spiral-matrix](https://github.com/RamThokane/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RamThokane/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/RamThokane/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/RamThokane/Leetcode/tree/master/0118-pascals-triangle) |
 | [0560-subarray-sum-equals-k](https://github.com/RamThokane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RamThokane/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/RamThokane/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -48,6 +49,7 @@ a collection of lc qs to ace
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/RamThokane/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/RamThokane/Leetcode/tree/master/0118-pascals-triangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RamThokane/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/RamThokane/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Hash Table
