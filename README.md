@@ -35,6 +35,7 @@ a collection of lc qs to ace
 | [0073-set-matrix-zeroes](https://github.com/RamThokane/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/RamThokane/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/RamThokane/Leetcode/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/RamThokane/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RamThokane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RamThokane/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/RamThokane/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -56,6 +57,7 @@ a collection of lc qs to ace
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RamThokane/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/RamThokane/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RamThokane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RamThokane/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RamThokane/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -93,6 +95,7 @@ a collection of lc qs to ace
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/RamThokane/Leetcode/tree/master/0229-majority-element-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RamThokane/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/RamThokane/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Enumeration
@@ -138,4 +141,8 @@ a collection of lc qs to ace
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RamThokane/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/RamThokane/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
