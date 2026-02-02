@@ -47,6 +47,7 @@ a collection of lc qs to ace
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RamThokane/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RamThokane/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RamThokane/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RamThokane/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RamThokane/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RamThokane/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RamThokane/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -66,6 +67,7 @@ a collection of lc qs to ace
 | [0560-subarray-sum-equals-k](https://github.com/RamThokane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RamThokane/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RamThokane/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RamThokane/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RamThokane/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RamThokane/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## String
@@ -129,6 +131,7 @@ a collection of lc qs to ace
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RamThokane/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RamThokane/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RamThokane/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
@@ -151,6 +154,7 @@ a collection of lc qs to ace
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RamThokane/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RamThokane/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Counting
 |  |
 | ------- |
