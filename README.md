@@ -52,6 +52,7 @@ a collection of lc qs to ace
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RamThokane/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RamThokane/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3637-trionic-array-i](https://github.com/RamThokane/Leetcode/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/RamThokane/Leetcode/tree/master/3640-trionic-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ a collection of lc qs to ace
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RamThokane/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/RamThokane/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RamThokane/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3640-trionic-array-ii](https://github.com/RamThokane/Leetcode/tree/master/3640-trionic-array-ii) |
 ## Hash Table
 |  |
 | ------- |
