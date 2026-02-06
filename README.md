@@ -51,6 +51,7 @@ a collection of lc qs to ace
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RamThokane/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RamThokane/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RamThokane/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/RamThokane/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/RamThokane/Leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/RamThokane/Leetcode/tree/master/3640-trionic-array-ii) |
 ## Dynamic Programming
@@ -112,6 +113,7 @@ a collection of lc qs to ace
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RamThokane/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/RamThokane/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RamThokane/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/RamThokane/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -158,6 +160,7 @@ a collection of lc qs to ace
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/RamThokane/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RamThokane/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/RamThokane/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting
 |  |
 | ------- |
