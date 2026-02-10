@@ -54,6 +54,7 @@ a collection of lc qs to ace
 | [3634-minimum-removals-to-balance-array](https://github.com/RamThokane/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/RamThokane/Leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/RamThokane/Leetcode/tree/master/3640-trionic-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/RamThokane/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ a collection of lc qs to ace
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RamThokane/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RamThokane/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RamThokane/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/RamThokane/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -127,6 +129,7 @@ a collection of lc qs to ace
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/RamThokane/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1895-largest-magic-square](https://github.com/RamThokane/Leetcode/tree/master/1895-largest-magic-square) |
+| [3719-longest-balanced-subarray-i](https://github.com/RamThokane/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -186,4 +189,12 @@ a collection of lc qs to ace
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RamThokane/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/RamThokane/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/RamThokane/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
