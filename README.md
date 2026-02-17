@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/RamThokane/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/RamThokane/Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/RamThokane/Leetcode/tree/master/0493-reverse-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/RamThokane/Leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
