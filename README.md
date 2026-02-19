@@ -35,4 +35,12 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/RamThokane/Leetcode/tree/master/0152-maximum-product-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/RamThokane/Leetcode/tree/master/0696-count-binary-substrings) |
+## String
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/RamThokane/Leetcode/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
