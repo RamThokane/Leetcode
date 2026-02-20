@@ -7,10 +7,12 @@
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/RamThokane/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/RamThokane/Leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/RamThokane/Leetcode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/RamThokane/Leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/RamThokane/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
