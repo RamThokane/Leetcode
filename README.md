@@ -13,6 +13,7 @@
 | [0162-find-peak-element](https://github.com/RamThokane/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RamThokane/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/RamThokane/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RamThokane/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,5 +58,10 @@
 ## Greedy
 |  |
 | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RamThokane/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RamThokane/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RamThokane/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
