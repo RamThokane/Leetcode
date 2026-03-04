@@ -14,6 +14,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/RamThokane/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/RamThokane/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RamThokane/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/RamThokane/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,4 +65,5 @@
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RamThokane/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/RamThokane/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
