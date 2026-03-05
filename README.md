@@ -35,6 +35,7 @@
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RamThokane/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RamThokane/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/RamThokane/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
