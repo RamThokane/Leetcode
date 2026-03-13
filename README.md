@@ -15,6 +15,7 @@
 | [0875-koko-eating-bananas](https://github.com/RamThokane/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RamThokane/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RamThokane/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RamThokane/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0162-find-peak-element](https://github.com/RamThokane/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RamThokane/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/RamThokane/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RamThokane/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RamThokane/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RamThokane/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -64,6 +67,7 @@
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RamThokane/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RamThokane/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RamThokane/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -77,4 +81,8 @@
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/RamThokane/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RamThokane/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
