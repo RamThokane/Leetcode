@@ -1,6 +1,6 @@
 class Solution {
 
-    // Check if we can make m bouquets on given day
+   
     public boolean isPossible(int[] bloomDay, int day, int m, int k) {
 
         int count = 0;
@@ -27,14 +27,14 @@ class Solution {
 
     public int minDays(int[] bloomDay, int m, int k) {
 
-        // Not enough flowers
+       
         if ((long)m * k > bloomDay.length)
             return -1;
 
         int minDay = bloomDay[0];
         int maxDay = bloomDay[0];
 
-        // Find minimum and maximum day
+   
         for (int i = 1; i < bloomDay.length; i++) {
 
             if (bloomDay[i] < minDay)
@@ -48,7 +48,7 @@ class Solution {
         int high = maxDay;
         int answer = -1;
 
-        // Binary Search
+     
         while (low <= high) {
 
             int mid = low + (high - low) / 2;
