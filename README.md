@@ -18,6 +18,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RamThokane/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RamThokane/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RamThokane/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/RamThokane/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RamThokane/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RamThokane/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
@@ -82,6 +83,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RamThokane/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RamThokane/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RamThokane/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/RamThokane/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RamThokane/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RamThokane/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/RamThokane/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Two Pointers
 |  |
 | ------- |
