@@ -19,6 +19,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RamThokane/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RamThokane/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RamThokane/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2751-robot-collisions](https://github.com/RamThokane/Leetcode/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/RamThokane/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RamThokane/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RamThokane/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RamThokane/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2751-robot-collisions](https://github.com/RamThokane/Leetcode/tree/master/2751-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RamThokane/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2751-robot-collisions](https://github.com/RamThokane/Leetcode/tree/master/2751-robot-collisions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -121,4 +124,8 @@
 |  |
 | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/RamThokane/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+## Stack
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/RamThokane/Leetcode/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
