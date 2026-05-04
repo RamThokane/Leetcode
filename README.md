@@ -14,11 +14,13 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RamThokane/Leetcode/tree/master/0048-rotate-image) |
 | [0788-rotated-digits](https://github.com/RamThokane/Leetcode/tree/master/0788-rotated-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/RamThokane/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RamThokane/Leetcode/tree/master/0048-rotate-image) |
 | [2615-sum-of-distances](https://github.com/RamThokane/Leetcode/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
@@ -28,4 +30,8 @@
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/RamThokane/Leetcode/tree/master/2615-sum-of-distances) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/RamThokane/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
