@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RamThokane/Leetcode/tree/master/0048-rotate-image) |
+| [2126-destroying-asteroids](https://github.com/RamThokane/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2615-sum-of-distances](https://github.com/RamThokane/Leetcode/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
@@ -42,4 +43,12 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/RamThokane/Leetcode/tree/master/0061-rotate-list) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/RamThokane/Leetcode/tree/master/2126-destroying-asteroids) |
+## Sorting
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/RamThokane/Leetcode/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
