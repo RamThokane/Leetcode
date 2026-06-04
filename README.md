@@ -11,11 +11,13 @@
 | ------- |
 | [0788-rotated-digits](https://github.com/RamThokane/Leetcode/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RamThokane/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/RamThokane/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RamThokane/Leetcode/tree/master/0048-rotate-image) |
 | [0788-rotated-digits](https://github.com/RamThokane/Leetcode/tree/master/0788-rotated-digits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/RamThokane/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/RamThokane/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
@@ -67,4 +69,8 @@
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RamThokane/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RamThokane/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/RamThokane/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
