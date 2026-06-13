@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RamThokane/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [3838-weighted-word-mapping](https://github.com/RamThokane/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [2615-sum-of-distances](https://github.com/RamThokane/Leetcode/tree/master/2615-sum-of-distances) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RamThokane/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RamThokane/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3838-weighted-word-mapping](https://github.com/RamThokane/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RamThokane/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/RamThokane/Leetcode/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
