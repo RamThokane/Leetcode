@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RamThokane/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [3612-process-string-with-special-operations-i](https://github.com/RamThokane/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/RamThokane/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -80,6 +81,7 @@
 ## Simulation
 |  |
 | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/RamThokane/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/RamThokane/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
