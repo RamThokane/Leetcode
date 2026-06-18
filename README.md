@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/RamThokane/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RamThokane/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [3612-process-string-with-special-operations-i](https://github.com/RamThokane/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/RamThokane/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -86,5 +87,6 @@
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/RamThokane/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RamThokane/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
