@@ -7,15 +7,18 @@ class Solution {
         
         for (int i = 0; i < len; i++) {
             char c = s.charAt(i);
+            
             if (c == '(') {
                 if (opened > 0) {
-                    result[idx++] = c;
+                    result[idx] = c;
+                    idx++;
                 }
                 opened++;
             } else {
                 opened--;
                 if (opened > 0) {
-                    result[idx++] = c;
+                    result[idx] = c;
+                    idx++;
                 }
             }
         }
