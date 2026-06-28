@@ -8,6 +8,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/RamThokane/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RamThokane/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RamThokane/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1903-largest-odd-number-in-string](https://github.com/RamThokane/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/RamThokane/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/RamThokane/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
@@ -21,6 +22,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/RamThokane/Leetcode/tree/master/0048-rotate-image) |
 | [0788-rotated-digits](https://github.com/RamThokane/Leetcode/tree/master/0788-rotated-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/RamThokane/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RamThokane/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/RamThokane/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
@@ -61,6 +63,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/RamThokane/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/RamThokane/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RamThokane/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RamThokane/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
