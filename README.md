@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RamThokane/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/RamThokane/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/RamThokane/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RamThokane/Leetcode/tree/master/0014-longest-common-prefix) |
@@ -22,6 +23,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RamThokane/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0788-rotated-digits](https://github.com/RamThokane/Leetcode/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RamThokane/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RamThokane/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -69,6 +71,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RamThokane/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/RamThokane/Leetcode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/RamThokane/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RamThokane/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
