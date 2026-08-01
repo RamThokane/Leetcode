@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RamThokane/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0486-predict-the-winner](https://github.com/RamThokane/Leetcode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/RamThokane/Leetcode/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RamThokane/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RamThokane/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/RamThokane/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RamThokane/Leetcode/tree/master/0048-rotate-image) |
+| [0486-predict-the-winner](https://github.com/RamThokane/Leetcode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/RamThokane/Leetcode/tree/master/0788-rotated-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/RamThokane/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RamThokane/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -41,6 +43,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RamThokane/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/RamThokane/Leetcode/tree/master/0048-rotate-image) |
+| [0486-predict-the-winner](https://github.com/RamThokane/Leetcode/tree/master/0486-predict-the-winner) |
 | [2126-destroying-asteroids](https://github.com/RamThokane/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RamThokane/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2615-sum-of-distances](https://github.com/RamThokane/Leetcode/tree/master/2615-sum-of-distances) |
@@ -134,4 +137,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RamThokane/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RamThokane/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RamThokane/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
