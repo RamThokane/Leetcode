@@ -43,6 +43,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RamThokane/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/RamThokane/Leetcode/tree/master/0048-rotate-image) |
+| [0238-product-of-array-except-self](https://github.com/RamThokane/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/RamThokane/Leetcode/tree/master/0486-predict-the-winner) |
 | [2126-destroying-asteroids](https://github.com/RamThokane/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RamThokane/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -61,6 +62,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/RamThokane/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2615-sum-of-distances](https://github.com/RamThokane/Leetcode/tree/master/2615-sum-of-distances) |
 ## Matrix
 |  |
