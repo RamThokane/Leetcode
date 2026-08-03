@@ -45,6 +45,7 @@
 | [0036-valid-sudoku](https://github.com/RamThokane/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/RamThokane/Leetcode/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/RamThokane/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RamThokane/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/RamThokane/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/RamThokane/Leetcode/tree/master/0486-predict-the-winner) |
 | [2126-destroying-asteroids](https://github.com/RamThokane/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -84,6 +85,7 @@
 | [0005-longest-palindromic-substring](https://github.com/RamThokane/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/RamThokane/Leetcode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/RamThokane/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RamThokane/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RamThokane/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RamThokane/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RamThokane/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -107,6 +109,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RamThokane/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RamThokane/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RamThokane/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Enumeration
