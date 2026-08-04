@@ -53,6 +53,7 @@
 | [2615-sum-of-distances](https://github.com/RamThokane/Leetcode/tree/master/2615-sum-of-distances) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RamThokane/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RamThokane/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/RamThokane/Leetcode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/RamThokane/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@
 | [0242-valid-anagram](https://github.com/RamThokane/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/RamThokane/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2615-sum-of-distances](https://github.com/RamThokane/Leetcode/tree/master/2615-sum-of-distances) |
+| [3731-find-missing-elements](https://github.com/RamThokane/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RamThokane/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RamThokane/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RamThokane/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/RamThokane/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
