@@ -25,6 +25,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RamThokane/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/RamThokane/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RamThokane/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/RamThokane/Leetcode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/RamThokane/Leetcode/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RamThokane/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -47,6 +48,7 @@
 | [0036-valid-sudoku](https://github.com/RamThokane/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/RamThokane/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/RamThokane/Leetcode/tree/master/0048-rotate-image) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RamThokane/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RamThokane/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RamThokane/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/RamThokane/Leetcode/tree/master/0238-product-of-array-except-self) |
