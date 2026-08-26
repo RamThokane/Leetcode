@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RamThokane/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/RamThokane/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/RamThokane/Leetcode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/RamThokane/Leetcode/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RamThokane/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -44,6 +45,7 @@
 | [0011-container-with-most-water](https://github.com/RamThokane/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/RamThokane/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/RamThokane/Leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/RamThokane/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/RamThokane/Leetcode/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/RamThokane/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RamThokane/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -87,6 +89,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RamThokane/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/RamThokane/Leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/RamThokane/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/RamThokane/Leetcode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/RamThokane/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RamThokane/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -130,6 +133,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RamThokane/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/RamThokane/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RamThokane/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RamThokane/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -165,4 +169,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RamThokane/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RamThokane/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
